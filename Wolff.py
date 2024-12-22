@@ -1,6 +1,5 @@
 #######################
 ### WOLFF ALGORITHM ###
-### NADAV HARGITTAI ###
 #######################
 
 """ import libraries """
